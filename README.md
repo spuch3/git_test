@@ -1,0 +1,1 @@
+This is spuch3's first git project!
